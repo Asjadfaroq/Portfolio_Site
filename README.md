@@ -1,7 +1,6 @@
 # 👨‍💻 Asjad Farooq | Portfolio
 
 <div align="center">
-  <img src="assets/img/background_match_img.jpg" alt="Portfolio Preview" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asjadfarooqconnect/)
   [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/AsjadFaroo55623)
